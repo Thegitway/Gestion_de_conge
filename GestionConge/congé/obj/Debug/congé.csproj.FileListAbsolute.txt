@@ -1,0 +1,57 @@
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.csprojAssemblyReference.cache
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.Properties.Resources.resources
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.csproj.GenerateResource.cache
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.csproj.CoreCompileInputs.cache
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\bin\Debug\congé.exe.config
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\bin\Debug\congé.exe
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\bin\Debug\congé.pdb
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.exe
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.pdb
+C:\Users\omaro\Desktop\EMSI\Cours\Etude de cas\mini-projet\congé\congé\obj\Debug\congé.Acceuil.resources
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.csprojAssemblyReference.cache
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.Acceuil.resources
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.Properties.Resources.resources
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.csproj.GenerateResource.cache
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.csproj.CoreCompileInputs.cache
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.exe
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\obj\Debug\congé.pdb
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\bin\Debug\congé.exe.config
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\bin\Debug\congé.exe
+C:\Users\omaro\Desktop\mini-projet Stage\congé\congé\bin\Debug\congé.pdb
+C:\Users\omaro\Desktop\congé\congé\congé\bin\Debug\congé.exe.config
+C:\Users\omaro\Desktop\congé\congé\congé\bin\Debug\congé.exe
+C:\Users\omaro\Desktop\congé\congé\congé\bin\Debug\congé.pdb
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.csprojAssemblyReference.cache
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.Acceuil.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.Properties.Resources.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.csproj.GenerateResource.cache
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.csproj.CoreCompileInputs.cache
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.exe
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.pdb
+C:\Users\omaro\Desktop\congé\congé\congé\bin\Debug\Congé.ldf
+C:\Users\omaro\Desktop\congé\congé\congé\bin\Debug\Congé.mdf
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.Employe.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.AffectationConge.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.AjouterEmploye.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.Calendrier.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.Modifier.resources
+C:\Users\omaro\Desktop\congé\congé\congé\obj\Debug\congé.ModifierConge.resources
+C:\Users\DOC\Desktop\congé\congé\congé\bin\Debug\Congé.ldf
+C:\Users\DOC\Desktop\congé\congé\congé\bin\Debug\Congé.mdf
+C:\Users\DOC\Desktop\congé\congé\congé\bin\Debug\congé.exe.config
+C:\Users\DOC\Desktop\congé\congé\congé\bin\Debug\congé.exe
+C:\Users\DOC\Desktop\congé\congé\congé\bin\Debug\congé.pdb
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.csprojAssemblyReference.cache
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.AffectationConge.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.AjouterEmploye.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.Calendrier.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.Employe.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.Acceuil.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.Modifier.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.ModifierConge.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.Properties.Resources.resources
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.csproj.GenerateResource.cache
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.csproj.CoreCompileInputs.cache
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.exe
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.pdb
+C:\Users\DOC\Desktop\congé\congé\congé\obj\Debug\congé.SupprimerConge.resources
